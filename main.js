@@ -28,6 +28,6 @@ function validateCaptcha() {
       errCaptcha.innerHTML = "Wrong captcha";
     } else {
       errCaptcha.innerHTML = "Done";
-      location.replace("https://pastebin.com/raw/ViU7vz1n")
+      location.replace("https://pastebin.com/raw/wD431s4T")
     }
   }
